@@ -1,0 +1,8 @@
+logs
+resourcepacks
+saves
+screenshots
+texturepacks
+realms*
+
+!*.jar
